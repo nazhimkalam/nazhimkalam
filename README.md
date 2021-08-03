@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nazhim Kalam 🚀</h1>
-<h3 align="center">A Passionate Full Stack Web Developer</h3>
+<h3 align="center">A Creative Full Stack Web Developer</h3>
+<h4 align="center">Data Science & ML Enthusiast | Toastmaster</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazhimkalam&label=Profile%20views&color=0e75b6&style=flat" alt="nazhimkalam" /> </p>
 
