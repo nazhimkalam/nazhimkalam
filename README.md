@@ -16,8 +16,6 @@
 
 - 📝 I regularly write articles on [https://nazhimkalam.medium.com/](https://nazhimkalam.medium.com/)
 
-- 💬 Ask me about **MERN Stack & Machine Learning**
-
 - 📫 How to reach me **nazhimkalam@gmail.com**
 
 - 📄 Know about my experiences [https://nazhimkalam.github.io/](https://nazhimkalam.github.io/)
