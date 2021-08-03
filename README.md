@@ -24,6 +24,10 @@
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
+- [Types of Logistic Regression](https://nazhimkalam.medium.com/types-of-logistic-regression-a8c9a1aa6c6e?source=rss-a00a032e5b78------2)
+- [KNN Algorithm Breakdown](https://nazhimkalam.medium.com/knn-algorithm-breakdown-d3e24a757cd6?source=rss-a00a032e5b78------2)
+- [Quick Breakdown Of Deep Learning](https://nazhimkalam.medium.com/quick-breakdown-of-deep-learning-23674d98f290?source=rss-a00a032e5b78------2)
+- [Quick Breakdown on Reinforcement Machine Learning](https://nazhimkalam.medium.com/quick-breakdown-on-reinforcement-machine-learning-bdb34d7f8c78?source=rss-a00a032e5b78------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
