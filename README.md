@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **I enjoy working out**
 
-<!-- ### Blogs posts -->
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Quick Breakdown on Decision Tree](https://nazhimkalam.medium.com/quick-breakdown-on-decision-tree-84ea447a802f?source=rss-a00a032e5b78------2)
 - [Types of Logistic Regression](https://nazhimkalam.medium.com/types-of-logistic-regression-a8c9a1aa6c6e?source=rss-a00a032e5b78------2)
