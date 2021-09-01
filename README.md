@@ -26,7 +26,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Random Forest Algorithm](https://nazhimkalam.medium.com/random-forest-algorithm-1c9235e9bc84?source=rss-a00a032e5b78------2)
 - [Git Merge VS Git Rebase](https://enlear.academy/git-merge-vs-git-rebase-25770af1e427?source=rss-a00a032e5b78------2)
-- [Quick Breakdown on Decision Tree](https://enlear.academy/quick-breakdown-on-decision-tree-84ea447a802f?source=rss-a00a032e5b78------2)
+- [Quick Breakdown on Decision Tree](https://nazhimkalam.medium.com/quick-breakdown-on-decision-tree-84ea447a802f?source=rss-a00a032e5b78------2)
 - [Types of Logistic Regression](https://nazhimkalam.medium.com/types-of-logistic-regression-a8c9a1aa6c6e?source=rss-a00a032e5b78------2)
 <!-- BLOG-POST-LIST:END -->
 
