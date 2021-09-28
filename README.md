@@ -24,10 +24,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Next JS or React JS, let's find out.](https://enlear.academy/next-js-or-react-js-lets-find-out-60c77373da85?source=rss-a00a032e5b78------2)
 - [Random Forest Algorithm Quick Breakdown](https://nazhimkalam.medium.com/random-forest-algorithm-1c9235e9bc84?source=rss-a00a032e5b78------2)
 - [Git Merge VS Git Rebase](https://enlear.academy/git-merge-vs-git-rebase-25770af1e427?source=rss-a00a032e5b78------2)
 - [Quick Breakdown on Decision Tree](https://nazhimkalam.medium.com/quick-breakdown-on-decision-tree-84ea447a802f?source=rss-a00a032e5b78------2)
-- [Types of Logistic Regression](https://nazhimkalam.medium.com/types-of-logistic-regression-a8c9a1aa6c6e?source=rss-a00a032e5b78------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
