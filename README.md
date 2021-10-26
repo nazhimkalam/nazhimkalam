@@ -2,7 +2,14 @@
 <h3 align="center">A Creative Full Stack Web Developer</h3>
 <h4 align="center">Data Science & ML Enthusiast | Toastmaster</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nazhimkalam&label=Profile%20views&color=0e75b6&style=flat" alt="nazhimkalam" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=nazhimkalam&label=Profile%20views&color=0e75b6&style=flat" alt="nazhimkalam" /> 
+</p>
+
+<p align="left"> 
+  <a href="https://nazhimkalam.github.io/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" /></a> 
+</p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazhimkalam" alt="nazhimkalam" /></a> </p>
 
