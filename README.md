@@ -31,7 +31,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Use ngrok to share your local server](https://enlear.academy/use-ngrok-to-share-your-local-server-b11b7593b4a3?source=rss-a00a032e5b78------2)
+- [How to Use ngrok](https://enlear.academy/use-ngrok-to-share-your-local-server-b11b7593b4a3?source=rss-a00a032e5b78------2)
 - [Why You Should Use NestJS for Backend Development?](https://enlear.academy/why-you-should-use-nestjs-as-your-backend-framework-bd1ff1acce5d?source=rss-a00a032e5b78------2)
 - [Why You Should Switch to NextJS from ReactJS](https://enlear.academy/next-js-or-react-js-lets-find-out-60c77373da85?source=rss-a00a032e5b78------2)
 - [Random Forest Algorithm Quick Breakdown](https://nazhimkalam.medium.com/random-forest-algorithm-1c9235e9bc84?source=rss-a00a032e5b78------2)
