@@ -31,7 +31,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Everything you should know about Meta](https://enlear.academy/everything-you-should-know-about-meta-867f958006a6?source=rss-a00a032e5b78------2)
+- [Everything You Should Know About Meta](https://enlear.academy/everything-you-should-know-about-meta-867f958006a6?source=rss-a00a032e5b78------2)
 - [How to Use ngrok](https://enlear.academy/use-ngrok-to-share-your-local-server-b11b7593b4a3?source=rss-a00a032e5b78------2)
 - [Why You Should Use NestJS for Backend Development?](https://enlear.academy/why-you-should-use-nestjs-as-your-backend-framework-bd1ff1acce5d?source=rss-a00a032e5b78------2)
 - [Why You Should Switch to NextJS from ReactJS](https://enlear.academy/next-js-or-react-js-lets-find-out-60c77373da85?source=rss-a00a032e5b78------2)
