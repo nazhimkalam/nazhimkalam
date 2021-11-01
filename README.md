@@ -11,8 +11,9 @@
 </p>
 
 <p align="left" >
-  &nbsp;&nbsp;
-  <a href="https://app.daily.dev/nazhimkalam"><img src="https://api.daily.dev/devcards/ac8a4f8e478f4b25a5ed95cfdd46895d.png?r=43v" width="150" height="230" alt="Nazhim Kalam's Dev Card"/></a>
+&nbsp;
+  <a href="https://app.daily.dev/nazhimkalam"><img  src="https://api.daily.dev/devcards/ac8a4f8e478f4b25a5ed95cfdd46895d.png?r=43v" width="250" height="350" alt="Nazhim Kalam's Dev Card"/></a>
+  <br />
   &nbsp;&nbsp;
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazhimkalam" alt="nazhimkalam" /></a>
   
