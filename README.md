@@ -10,8 +10,13 @@
   <a href="https://nazhimkalam.github.io/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" /></a> 
 </p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazhimkalam" alt="nazhimkalam" /></a> </p>
+<p align="left" >
+  &nbsp;&nbsp;
+  <a href="https://app.daily.dev/nazhimkalam"><img src="https://api.daily.dev/devcards/ac8a4f8e478f4b25a5ed95cfdd46895d.png?r=43v" width="150" height="230" alt="Nazhim Kalam's Dev Card"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazhimkalam" alt="nazhimkalam" /></a>
+  
+</p>
 
 - 🔭 I’m currently working at [99x Technologies](https://99x.io/)
 
