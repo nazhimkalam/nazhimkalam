@@ -11,13 +11,9 @@
 </p>
 
 <p align="left" >
-&nbsp;
-  <a href="https://app.daily.dev/nazhimkalam"><img  src="https://api.daily.dev/devcards/ac8a4f8e478f4b25a5ed95cfdd46895d.png?r=43v" width="250" height="350" alt="Nazhim Kalam's Dev Card"/></a>
-  <br />
-  &nbsp;&nbsp;
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazhimkalam" alt="nazhimkalam" /></a>
-  
 </p>
+
 
 - 🔭 I’m currently working at [99x Technologies](https://99x.io/)
 
@@ -59,3 +55,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nazhimkalam&" alt="nazhimkalam" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazhimkalam&show_icons=true&locale=en&layout=compact" alt="nazhimkalam" /></p>
+
+<p align="left" >
+  <a href="https://app.daily.dev/nazhimkalam"><img  src="https://api.daily.dev/devcards/ac8a4f8e478f4b25a5ed95cfdd46895d.png?r=43v" width="250" height="350" alt="Nazhim Kalam's Dev Card"/></a>
+</p>
