@@ -33,10 +33,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [My First R&D project as an intern at 99x](https://nazhimkalam.medium.com/my-first-r-d-project-as-an-intern-at-99x-3e305a9de594?source=rss-a00a032e5b78------2)
 - [Internship experience as a software engineering intern at 99x](https://nazhimkalam.medium.com/internship-experience-as-a-software-engineering-intern-at-99x-526e37889112?source=rss-a00a032e5b78------2)
 - [Everything You Should Know About Meta](https://enlear.academy/everything-you-should-know-about-meta-867f958006a6?source=rss-a00a032e5b78------2)
 - [How to Use ngrok](https://enlear.academy/use-ngrok-to-share-your-local-server-b11b7593b4a3?source=rss-a00a032e5b78------2)
-- [Why You Should Use NestJS for Backend Development?](https://enlear.academy/why-you-should-use-nestjs-as-your-backend-framework-bd1ff1acce5d?source=rss-a00a032e5b78------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
