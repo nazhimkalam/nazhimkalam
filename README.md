@@ -33,10 +33,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [8 Best JavaScript Email API Libraries](https://nazhimkalam.medium.com/8-best-javascript-email-api-libraries-9749bd524ea2?source=rss-a00a032e5b78------2)
 - [GDPR Compliance For Software Development](https://enlear.academy/gdpr-compliance-for-software-development-e7ffc2bee4c2?source=rss-a00a032e5b78------2)
 - [My First R&amp;D project as an Intern at 99x](https://python.plainenglish.io/my-first-r-d-project-as-an-intern-at-99x-3e305a9de594?source=rss-a00a032e5b78------2)
 - [Internship experience as a software engineering intern at 99x](https://medium.com/interviewnoodle/internship-experience-as-a-software-engineering-intern-at-99x-526e37889112?source=rss-a00a032e5b78------2)
-- [Everything You Should Know About Meta](https://enlear.academy/everything-you-should-know-about-meta-867f958006a6?source=rss-a00a032e5b78------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
