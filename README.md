@@ -33,7 +33,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [6 new features from Next.js 12](https://enlear.academy/6-new-features-from-next-js-12-90f8ffdecc51?source=rss-a00a032e5b78------2)
+- [6 New Features from Next.js 12](https://enlear.academy/6-new-features-from-next-js-12-90f8ffdecc51?source=rss-a00a032e5b78------2)
 - [Web 1.0 vs Web 2.0 vs Web 3.0](https://enlear.academy/web-1-0-vs-web-2-0-vs-web-3-0-e428cfe09dde?source=rss-a00a032e5b78------2)
 - [How I passed AI-900: Microsoft Azure AI Fundamentals](https://nazhimkalam.medium.com/how-i-passed-ai-900-microsoft-azure-ai-fundamentals-9a34d0a8a76e?source=rss-a00a032e5b78------2)
 - [8 Best JavaScript Email API Libraries](https://enlear.academy/8-best-javascript-email-api-libraries-9749bd524ea2?source=rss-a00a032e5b78------2)
