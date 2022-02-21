@@ -33,7 +33,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [The right ways to make use of &lt;Image /&gt; from NextJS](https://enlear.academy/the-right-ways-to-make-use-of-image-from-nextjs-398c48378690?source=rss-a00a032e5b78------2)
+- [How to Get Maximum from Next.js &lt;Image/&gt; Component](https://enlear.academy/the-right-ways-to-make-use-of-image-from-nextjs-398c48378690?source=rss-a00a032e5b78------2)
 - [5 Free Push Notification Services](https://enlear.academy/5-free-push-notification-services-9e56e123455?source=rss-a00a032e5b78------2)
 - [6 New Features from Next.js 12](https://enlear.academy/6-new-features-from-next-js-12-90f8ffdecc51?source=rss-a00a032e5b78------2)
 - [Web 1.0 vs Web 2.0 vs Web 3.0](https://enlear.academy/web-1-0-vs-web-2-0-vs-web-3-0-e428cfe09dde?source=rss-a00a032e5b78------2)
