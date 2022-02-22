@@ -7,7 +7,7 @@
 </p>
 
 <p align="left"> 
-  <a href="https://nazhimkalam.github.io/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" /></a> 
+  <a href="http://nazhimkalam.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" /></a> 
 </p>
 
 <p align="left" >
@@ -21,13 +21,13 @@
 
 - 👯 I’m also a **Freelancer**
 
-- 👨‍💻 All of my projects are available at [https://nazhimkalam.github.io/](https://nazhimkalam.github.io/)
+- 👨‍💻 All of my projects are available at [http://nazhimkalam.netlify.app/](http://nazhimkalam.netlify.app/)
 
 - 📝 I regularly write articles on [https://nazhimkalam.medium.com/](https://nazhimkalam.medium.com/)
 
 - 📫 How to reach me **nazhimkalam@gmail.com**
 
-- 📄 Know about my experiences [https://nazhimkalam.github.io/](https://nazhimkalam.github.io/)
+- 📄 Know about my experiences [http://nazhimkalam.netlify.app/](http://nazhimkalam.netlify.app/)
 
 - ⚡ Fun fact **I enjoy working out**
 
