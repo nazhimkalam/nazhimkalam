@@ -33,10 +33,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Free Hosting Providers for Developers](https://enlear.academy/top-10-free-hosting-providers-for-developers-28d92ec7d597?source=rss-a00a032e5b78------2)
 - [Authentication with NextAuth.js](https://enlear.academy/authentication-with-nextauth-js-267f98fe008d?source=rss-a00a032e5b78------2)
 - [Why you should consider Test-Driven Development &lpar;TDD&rpar;?](https://enlear.academy/why-you-should-consider-test-driven-development-tdd-2606c8d09c6b?source=rss-a00a032e5b78------2)
 - [MetaMask Authentication with Moralis](https://blog.cryptostars.is/metamask-authentication-with-moralis-63ac452dfcb0?source=rss-a00a032e5b78------2)
-- [How to Get Maximum from Next.js &lt;Image/&gt; Component](https://enlear.academy/the-right-ways-to-make-use-of-image-from-nextjs-398c48378690?source=rss-a00a032e5b78------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
