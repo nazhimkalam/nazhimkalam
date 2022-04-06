@@ -33,7 +33,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [MetaMask users can now buy cryptocurrency using Apple Pay](https://enlear.academy/metamask-users-can-now-buy-cryptocurrency-using-apple-pay-ae157472a068?source=rss-a00a032e5b78------2)
+- [MetaMask users can now buy cryptocurrency using Apple Pay](https://nazhimkalam.medium.com/metamask-users-can-now-buy-cryptocurrency-using-apple-pay-ae157472a068?source=rss-a00a032e5b78------2)
 - [Top 10 Free Hosting Providers for Developers](https://enlear.academy/top-10-free-hosting-providers-for-developers-28d92ec7d597?source=rss-a00a032e5b78------2)
 - [Authentication with NextAuth.js](https://enlear.academy/authentication-with-nextauth-js-267f98fe008d?source=rss-a00a032e5b78------2)
 - [Why you should consider Test-Driven Development &lpar;TDD&rpar;?](https://enlear.academy/why-you-should-consider-test-driven-development-tdd-2606c8d09c6b?source=rss-a00a032e5b78------2)
