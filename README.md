@@ -33,10 +33,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Most important Software Design Patterns](https://enlear.academy/most-important-software-design-patterns-f9f626931bc7?source=rss-a00a032e5b78------2)
 - [10 Best Web Scrapping Tools](https://enlear.academy/10-best-web-scrapping-tools-cb71b5900733?source=rss-a00a032e5b78------2)
 - [MetaMask users can now buy cryptocurrency using Apple Pay](https://nazhimkalam.medium.com/metamask-users-can-now-buy-cryptocurrency-using-apple-pay-ae157472a068?source=rss-a00a032e5b78------2)
 - [Top 10 Free Hosting Providers for Developers](https://enlear.academy/top-10-free-hosting-providers-for-developers-28d92ec7d597?source=rss-a00a032e5b78------2)
-- [Authentication with NextAuth.js](https://enlear.academy/authentication-with-nextauth-js-267f98fe008d?source=rss-a00a032e5b78------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
