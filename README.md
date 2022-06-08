@@ -33,10 +33,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Build Your Own React Hooks](https://engineering.99x.io/build-your-own-react-hooks-3fe881298a39?source=rss-a00a032e5b78------2)
 - [Top 7 React Libraries Every JavaScript Professional Should Know](https://engineering.99x.io/top-7-react-libraries-every-javascript-professional-should-know-81d36cb49894?source=rss-a00a032e5b78------2)
 - [Developing UIs using Storybook](https://enlear.academy/developing-uis-using-storybook-a5e37c29c486?source=rss-a00a032e5b78------2)
 - [Most important Software Design Patterns](https://enlear.academy/most-important-software-design-patterns-f9f626931bc7?source=rss-a00a032e5b78------2)
-- [10 Best Web Scrapping Tools](https://enlear.academy/10-best-web-scrapping-tools-cb71b5900733?source=rss-a00a032e5b78------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
