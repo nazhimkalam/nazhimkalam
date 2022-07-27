@@ -15,9 +15,9 @@
 </p>
 
 
-- 🔭 I’m currently working at [99x Technologies](https://99x.io/)
+- 🔭 I’m currently working at [Niftron + Inforwaves]
 
-- 🌱 I’m currently doing my **Internship**
+- 🌱 I’m currently doing my **final year**
 
 - 👯 I’m also a **Freelancer**
 
