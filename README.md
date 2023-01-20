@@ -33,10 +33,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Power of ChatGPT](https://enlear.academy/power-of-chatgpt-ba736ef42ef0?source=rss-a00a032e5b78------2)
 - [Understanding Service Workers in React JS](https://enlear.academy/understanding-service-workers-in-react-js-a90dc6fbec02?source=rss-a00a032e5b78------2)
 - [Build Your Own React Hooks](https://engineering.99x.io/build-your-own-react-hooks-3fe881298a39?source=rss-a00a032e5b78------2)
 - [Top 7 React Libraries Every JavaScript Professional Should Know](https://engineering.99x.io/top-7-react-libraries-every-javascript-professional-should-know-81d36cb49894?source=rss-a00a032e5b78------2)
-- [Developing UIs using Storybook](https://enlear.academy/developing-uis-using-storybook-a5e37c29c486?source=rss-a00a032e5b78------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
