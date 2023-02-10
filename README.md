@@ -33,10 +33,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Git commands every developer should know](https://enlear.academy/it-commands-every-developer-should-know-c4ac661f0f2?source=rss-a00a032e5b78------2)
 - [Tableau: The Power of Data Visualization in Business Decision-Making](https://enlear.academy/tableau-the-power-of-data-visualization-in-business-decision-making-1a7fd365b820?source=rss-a00a032e5b78------2)
 - [NPM vs NPX](https://enlear.academy/npm-vs-npx-67000840d8ed?source=rss-a00a032e5b78------2)
 - [Power of ChatGPT](https://enlear.academy/power-of-chatgpt-ba736ef42ef0?source=rss-a00a032e5b78------2)
-- [Understanding Service Workers in React JS](https://enlear.academy/understanding-service-workers-in-react-js-a90dc6fbec02?source=rss-a00a032e5b78------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
