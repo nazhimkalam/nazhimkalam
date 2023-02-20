@@ -33,7 +33,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Productivity Tips](https://enlear.academy/productivity-tips-bcbcc8135989?source=rss-a00a032e5b78------2)
+- [Productivity Tips](https://nazhimkalam.medium.com/productivity-tips-bcbcc8135989?source=rss-a00a032e5b78------2)
 - [Git commands every developer should know](https://enlear.academy/it-commands-every-developer-should-know-c4ac661f0f2?source=rss-a00a032e5b78------2)
 - [Tableau: The Power of Data Visualization in Business Decision-Making](https://enlear.academy/tableau-the-power-of-data-visualization-in-business-decision-making-1a7fd365b820?source=rss-a00a032e5b78------2)
 - [NPM vs NPX](https://enlear.academy/npm-vs-npx-67000840d8ed?source=rss-a00a032e5b78------2)
