@@ -33,10 +33,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Sites: An Introduction to Building Websites Easily](https://nazhimkalam.medium.com/google-sites-an-introduction-to-building-websites-easily-669c68055a70?source=rss-a00a032e5b78------2)
 - [Data Encryption Tools](https://enlear.academy/data-encryption-tools-a8d7e3c6590d?source=rss-a00a032e5b78------2)
 - [Productivity Tips](https://nazhimkalam.medium.com/productivity-tips-bcbcc8135989?source=rss-a00a032e5b78------2)
 - [Git commands every developer should know](https://enlear.academy/it-commands-every-developer-should-know-c4ac661f0f2?source=rss-a00a032e5b78------2)
-- [Tableau: The Power of Data Visualization in Business Decision-Making](https://enlear.academy/tableau-the-power-of-data-visualization-in-business-decision-making-1a7fd365b820?source=rss-a00a032e5b78------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
