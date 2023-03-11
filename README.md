@@ -33,7 +33,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Unleashing the Power of Data: How Power BI Revolutionizes Data Visualization](https://nazhimkalam.medium.com/unleashing-the-power-of-data-how-power-bi-revolutionizes-data-visualization-c8aa36d2a29d?source=rss-a00a032e5b78------2)
+- [Unleashing the Power of Data: How Power BI Revolutionizes Data Visualization](https://enlear.academy/unleashing-the-power-of-data-how-power-bi-revolutionizes-data-visualization-c8aa36d2a29d?source=rss-a00a032e5b78------2)
 - [LaTeX](https://nazhimkalam.medium.com/latex-5bab69a03528?source=rss-a00a032e5b78------2)
 - [Google Sites: An Introduction to Building Websites Easily](https://nazhimkalam.medium.com/google-sites-an-introduction-to-building-websites-easily-669c68055a70?source=rss-a00a032e5b78------2)
 - [Data Encryption Tools](https://enlear.academy/data-encryption-tools-a8d7e3c6590d?source=rss-a00a032e5b78------2)
