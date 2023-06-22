@@ -15,7 +15,7 @@
 </p>
 
 
-- 🔭 I’m currently working at [Niftron + Inforwaves]
+- 🔭 I’m currently working at Calcey.
 
 - 🌱 I’m currently doing my **final year**
 
