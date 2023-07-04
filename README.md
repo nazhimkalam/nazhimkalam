@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working at Calcey.
 
-- 🌱 I’m currently doing my **final year**
+- 🌱 First Class Honors **BSc Computer Science Graduate**.
 
 - 👯 I’m also a **Freelancer**
 
