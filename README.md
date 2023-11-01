@@ -2,18 +2,20 @@
 <h3 align="center">Software Developer</h3>
 <h4 align="center">Data Science & ML Enthusiast | Toastmaster</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=nazhimkalam&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=nazhimkalam&label=Profile%20views&color=brightgreen&style=flat" alt="profile-views" /> 
 </p>
 
-<p align="left"> 
-  <a href="http://nazhimkalam.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website-link" /></a> 
+<p align="center"> 
+  <a href="http://nazhimkalam.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Your%20Name-Personal%20Website-cyan?style=for-the-badge&logo=web" alt="website-link" /></a> 
 </p>
 
-<p align="left" >
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazhimkalam" alt="github-stats" /></a>
+<p align="center" >
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazhimkalam&row=1&column=5" alt="github-stats" /></a>
 </p>
 
+<br />
+<hr />
 
 - 🔭 I’m currently working at Calcey.
 
