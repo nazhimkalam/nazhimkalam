@@ -34,10 +34,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Embarking on the AI Odyssey: A Step-by-Step Guide to Creating Your Own GPT Model](https://nazhimkalam.medium.com/embarking-on-the-ai-odyssey-a-step-by-step-guide-to-creating-your-own-gpt-model-52b25cb9436a?source=rss-a00a032e5b78------2)
 - [Exploring Top Drag and Drop Libraries for React JS](https://enlear.academy/exploring-top-drag-and-drop-libraries-for-react-js-80249137cb14?source=rss-a00a032e5b78------2)
 - [An Introduction to Prisma ORM: Simplifying Database Operations with Type-Safe Queries](https://nazhimkalam.medium.com/an-introduction-to-prisma-orm-simplifying-database-operations-with-type-safe-queries-cb522447fe46?source=rss-a00a032e5b78------2)
 - [Building a Simple CRUD API with Next.js and tRPC](https://enlear.academy/building-a-simple-crud-api-with-next-js-and-trpc-d0f23823ec06?source=rss-a00a032e5b78------2)
-- [Introducing tRPC: Simplifying API Communication in React](https://enlear.academy/introducing-trpc-simplifying-api-communication-in-react-d824078ead3a?source=rss-a00a032e5b78------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
