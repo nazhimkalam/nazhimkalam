@@ -34,7 +34,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Seamless Node.js Management with NVM](https://nazhimkalam.medium.com/unlocking-seamless-node-js-management-with-nvm-325894806adc?source=rss-a00a032e5b78------2)
+- [Unlocking Seamless Node.js Management with NVM](https://enlear.academy/unlocking-seamless-node-js-management-with-nvm-325894806adc?source=rss-a00a032e5b78------2)
 - [Replace npm &amp; yarn with bun.sh](https://enlear.academy/replace-npm-yarn-with-bun-sh-cfd15149db30?source=rss-a00a032e5b78------2)
 - [Embarking on the AI Odyssey: A Step-by-Step Guide to Creating Your Own GPT Model](https://enlear.academy/embarking-on-the-ai-odyssey-a-step-by-step-guide-to-creating-your-own-gpt-model-52b25cb9436a?source=rss-a00a032e5b78------2)
 - [Exploring Top Drag and Drop Libraries for React JS](https://enlear.academy/exploring-top-drag-and-drop-libraries-for-react-js-80249137cb14?source=rss-a00a032e5b78------2)
