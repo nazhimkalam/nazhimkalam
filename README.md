@@ -6,7 +6,7 @@
 </p>
 
 <p align="center"> 
-  <a href="http://nazhimkalam.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Your%20Name-Personal%20Website-cyan?style=for-the-badge&logo=web" alt="website-link" /></a> 
+  <a href="http://nazhimkalam.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Nazhim%20Kalam-Web%20Portfolio-cyan?style=for-the-badge&logo=web" alt="website-link" /></a> 
 </p>
 
 <p align="center" >
