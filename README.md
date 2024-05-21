@@ -1,5 +1,5 @@
 <h1 align="center" style="text-decoration: none; color: black;">Nazhim Kalam</h1>
-<h3 align="center" style="text-decoration: none; color: #333;">Software Developer | Data Science & ML Enthusiast | Toastmaster</h3>
+<h3 align="center" style="text-decoration: none; color: #333;">Software Developer | Data Science & ML Enthusiast | Lecturer</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=nazhimkalam&label=Profile%20views&color=brightgreen&style=flat" alt="profile-views" /> 
