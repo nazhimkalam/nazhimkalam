@@ -16,7 +16,7 @@
 <br />
 <hr />
 
-- 🔭 I’m currently working at Calcey.
+- 🔭 I’m currently working as a Software Engineer & Lecturer.
 
 - 🌱 First Class Honors **BSc Computer Science Graduate**.
 
