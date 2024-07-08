@@ -16,7 +16,7 @@
 <br />
 <hr />
 
-- 🔭 I’m currently working as a Software Engineer & Lecturer.
+- 🔭 I’m currently persuing my MSc Data Science degree.
 
 - 🌱 First Class Honors **BSc Computer Science Graduate**.
 
