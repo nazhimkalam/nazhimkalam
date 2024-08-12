@@ -34,10 +34,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Top Optimized JavaScript Calendar Libraries: Features, Integrations, and Use Cases](https://enlear.academy/top-optimized-javascript-calendar-libraries-features-integrations-and-use-cases-ba1e43fcf2a0?source=rss-a00a032e5b78------2)
 - [New Features of React 19 You should know](https://enlear.academy/new-features-of-react-19-you-should-know-2939f1866a65?source=rss-a00a032e5b78------2)
 - [Importance of Software Architecture Design](https://nazhimkalam.medium.com/importance-of-software-architecture-design-2b4396e29ee8?source=rss-a00a032e5b78------2)
 - [Redis Database: An In-depth Overview of the Key-Value Store](https://nazhimkalam.medium.com/redis-database-an-in-depth-overview-of-the-key-value-store-1fe5656210bd?source=rss-a00a032e5b78------2)
-- [What is Generative AI?](https://enlear.academy/what-is-generative-ai-5180f68d523b?source=rss-a00a032e5b78------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
