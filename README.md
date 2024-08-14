@@ -34,7 +34,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [The 7 JavaScript Array Methods You Will Need in 2024](https://enlear.academy/the-7-javascript-array-methods-you-will-need-in-2024-e740738218ac?source=rss-a00a032e5b78------2)
+- [The 7 JavaScript Array Methods You Will Need in 2024](https://blog.venturemagazine.net/the-7-javascript-array-methods-you-will-need-in-2024-e740738218ac?source=rss-a00a032e5b78------2)
 - [Top Optimized JavaScript Calendar Libraries: Features, Integrations, and Use Cases](https://enlear.academy/top-optimized-javascript-calendar-libraries-features-integrations-and-use-cases-ba1e43fcf2a0?source=rss-a00a032e5b78------2)
 - [New Features of React 19 You should know](https://enlear.academy/new-features-of-react-19-you-should-know-2939f1866a65?source=rss-a00a032e5b78------2)
 - [Importance of Software Architecture Design](https://nazhimkalam.medium.com/importance-of-software-architecture-design-2b4396e29ee8?source=rss-a00a032e5b78------2)
