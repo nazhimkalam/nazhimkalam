@@ -20,6 +20,8 @@
 
 - 🌱 First Class Honors **BSc Computer Science Graduate**.
 
+- 🌱 Reading for Masters **MSc Data Science**.
+
 - 👯 I’m also a **Freelancer**
 
 - 👨‍💻 All of my projects are available at [http://nazhimkalam.netlify.app/](http://nazhimkalam.netlify.app/)
