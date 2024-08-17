@@ -36,10 +36,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [07 JavaScript single-liner tips](https://enlear.academy/07-javascript-single-liner-tips-681b797312ae?source=rss-a00a032e5b78------2)
+- [The Timeless Lesson: The Power of Resilience](https://medium.com/readers-digests/the-timeless-lesson-the-power-of-resilience-b36f8ea804b4?source=rss-a00a032e5b78------2)
+- [07 JavaScript single-liner tips](https://medium.com/technology-hits/07-javascript-single-liner-tips-681b797312ae?source=rss-a00a032e5b78------2)
 - [Igniting the Inner Flame: A Journey of Self-Discovery](https://blog.venturemagazine.net/igniting-the-inner-flame-a-journey-of-self-discovery-54373d7b4d23?source=rss-a00a032e5b78------2)
 - [The 7 JavaScript Array Methods You Will Need in 2024](https://blog.venturemagazine.net/the-7-javascript-array-methods-you-will-need-in-2024-e740738218ac?source=rss-a00a032e5b78------2)
-- [Top Optimized JavaScript Calendar Libraries: Features, Integrations, and Use Cases](https://enlear.academy/top-optimized-javascript-calendar-libraries-features-integrations-and-use-cases-ba1e43fcf2a0?source=rss-a00a032e5b78------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
