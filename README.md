@@ -36,10 +36,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Easy Healthy Breakfast Ideas to Kickstart Your Day](https://medium.com/health-science/5-easy-healthy-breakfast-ideas-to-kickstart-your-day-6cd468df7262?source=rss-a00a032e5b78------2)
 - [The Timeless Lesson: The Power of Resilience](https://blog.venturemagazine.net/the-timeless-lesson-the-power-of-resilience-b36f8ea804b4?source=rss-a00a032e5b78------2)
 - [07 JavaScript single-liner tips](https://medium.com/technology-hits/07-javascript-single-liner-tips-681b797312ae?source=rss-a00a032e5b78------2)
 - [Igniting the Inner Flame: A Journey of Self-Discovery](https://blog.venturemagazine.net/igniting-the-inner-flame-a-journey-of-self-discovery-54373d7b4d23?source=rss-a00a032e5b78------2)
-- [The 7 JavaScript Array Methods You Will Need in 2024](https://blog.venturemagazine.net/the-7-javascript-array-methods-you-will-need-in-2024-e740738218ac?source=rss-a00a032e5b78------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
