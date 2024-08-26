@@ -36,10 +36,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [My favourite lines from Atomic Habits by James Clear](https://medium.com/illumination/my-favourite-lines-from-atomic-habits-by-james-clear-85149c583cbb?source=rss-a00a032e5b78------2)
 - [The Ultimate Guide to the Best Productivity Books](https://medium.com/illumination-curators-on-substack/the-ultimate-guide-to-the-best-productivity-books-34dcea67719a?source=rss-a00a032e5b78------2)
 - [5 Easy Healthy Breakfast Ideas to Kickstart Your Day](https://medium.com/health-science/5-easy-healthy-breakfast-ideas-to-kickstart-your-day-6cd468df7262?source=rss-a00a032e5b78------2)
 - [The Timeless Lesson: The Power of Resilience](https://blog.venturemagazine.net/the-timeless-lesson-the-power-of-resilience-b36f8ea804b4?source=rss-a00a032e5b78------2)
-- [07 JavaScript single-liner tips](https://nazhimkalam.medium.com/07-javascript-single-liner-tips-681b797312ae?source=rss-a00a032e5b78------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
