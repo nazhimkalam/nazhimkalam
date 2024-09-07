@@ -36,7 +36,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Data Mutations in Next.js using useMutation](https://medium.com/technology-hits/data-mutations-in-next-js-using-usemutation-b45adbd08d8a?source=rss-a00a032e5b78------2)
+- [Data Mutations in Next.js using useMutation](https://enlear.academy/data-mutations-in-next-js-using-usemutation-b45adbd08d8a?source=rss-a00a032e5b78------2)
 - [The Future of Cancer Treatment: How Emerging Technologies Are Targeting Cancer Cells](https://medium.com/technology-hits/the-future-of-cancer-treatment-how-emerging-technologies-are-targeting-cancer-cells-ea612c0ab9cf?source=rss-a00a032e5b78------2)
 - [My favourite lines from Atomic Habits by James Clear](https://blog.venturemagazine.net/my-favourite-lines-from-atomic-habits-by-james-clear-85149c583cbb?source=rss-a00a032e5b78------2)
 - [The Ultimate Guide to the Best Productivity Books](https://blog.venturemagazine.net/the-ultimate-guide-to-the-best-productivity-books-34dcea67719a?source=rss-a00a032e5b78------2)
